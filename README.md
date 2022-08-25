@@ -16,6 +16,6 @@ The steps required to run this project:
 
 5. Follow the code on Section 3 to set up the project and serve the backend.
 
-6. Open the index.html file on an editor, change the base URL on line 48 to the url provided by the curl request to localhost:4040 on Colab. Ensure the base url ends with a forward slash '/'.
+6. Open the index.html file on an editor, change the base URL on line 48 to the url provided by the curl request to localhost:4040 on Colab.
 
 7. Run the index.html file on browser.
